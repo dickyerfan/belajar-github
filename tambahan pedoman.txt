@@ -1,1 +1,3 @@
+pedoman Github :
 Melakukan setting username dan email
+melakukan setting code Editor
